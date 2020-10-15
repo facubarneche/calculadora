@@ -1,0 +1,32 @@
+.conteiner{
+    width: 260px;
+    height: 250px;
+    background:darkolivegreen;
+    text-align: center;
+    padding: 10px 0px 10px;
+    border-radius:5% ;
+    -webkit-border-radius:5% ;
+    -moz-border-radius:5% ;
+    -ms-border-radius:5% ;
+    -o-border-radius:5% ;
+}
+.visor{
+    width: 215px;
+    height: 40px;
+    background: lightgrey;
+    margin: auto;
+    margin-bottom: 2px;
+    font-size: 36px;
+}
+
+button{
+    width: 40px;
+    height: 40px;
+    margin: 2px 0px 2px 0px;
+}
+#boton0{
+    width: 84px;
+}
+#igual{
+    width: 128px;
+}
